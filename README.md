@@ -1,5 +1,5 @@
 # micron-mvc
-An extremely minimal MVC framework for PHP that consists of two files:
+An extremely minimal MVC workflow for PHP that consists of two files:
 
 `.htaccess` and `index.php`
 
@@ -14,6 +14,7 @@ array(3) {
   ["parameter"]=>
   string(3) "604"
 }
+
 ~~~~
 ##Note
 `.htaccess` requires `mod_rewrite` to be enabled and configured properly with your webserver.
