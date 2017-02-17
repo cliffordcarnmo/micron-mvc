@@ -3,7 +3,7 @@ An extremely minimal MVC workflow for PHP that consists of two files:
 
 `.htaccess` and `index.php`
 
-##Example usage
+## Example usage
 Accessing the URI http://www.yoursite.com/customer/show/604 creates the array `$request` that contains the following:  
 ~~~~
 array(3) {
@@ -16,5 +16,5 @@ array(3) {
 }
 
 ~~~~
-##Note
+## Note
 `.htaccess` requires `mod_rewrite` to be enabled and configured properly with your webserver.
